@@ -1,4 +1,4 @@
-# Graph of cost effectiveness of different types of energy:
+# Graph of cost per unit per MW/s of different types of energy:
 ![Image](https://www.world-nuclear.org/getmedia/63b1bb09-dbb6-4ed8-905a-447a5056d2e6/Comparative-LCOEs-in-4-Countries-NEW.jpg.aspx)
 # Nuclear Power
 
