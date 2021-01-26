@@ -6,6 +6,8 @@
 ## More Details on different types of energy
 [World Nuclear's More Indepth Look at Renewable/Natural Energy](https://www.world-nuclear.org/information-library/energy-and-the-environment/renewable-energy-and-electricity.aspx)
 [Pedestrian Energy](https://pavegen.com/)
+## Ways to store energy
+[World Nuclear's List](https://www.world-nuclear.org/information-library/current-and-future-generation/electricity-and-energy-storage.aspx)
 
 # Nuclear Power
 
